@@ -1,0 +1,9 @@
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\AddPoindWithCalcZ.deps.json
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\AddPoindWithCalcZ.dll
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\AddPoindWithCalcZ.pdb
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.csprojAssemblyReference.cache
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.csproj.CoreCompileInputs.cache
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.AssemblyInfoInputs.cache
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.AssemblyInfo.cs
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.dll
+C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\AddPoindWithCalcZ.pdb

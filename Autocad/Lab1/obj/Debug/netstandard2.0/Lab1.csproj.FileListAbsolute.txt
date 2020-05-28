@@ -1,0 +1,9 @@
+C:\Users\smaxi\source\repos\Autocad\Lab1\bin\Debug\netstandard2.0\Lab1.deps.json
+C:\Users\smaxi\source\repos\Autocad\Lab1\bin\Debug\netstandard2.0\Lab1.dll
+C:\Users\smaxi\source\repos\Autocad\Lab1\bin\Debug\netstandard2.0\Lab1.pdb
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.csprojAssemblyReference.cache
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfo.cs
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.dll
+C:\Users\smaxi\source\repos\Autocad\Lab1\obj\Debug\netstandard2.0\Lab1.pdb

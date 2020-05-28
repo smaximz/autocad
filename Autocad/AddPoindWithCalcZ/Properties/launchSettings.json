@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AddPoindWithCalcZ": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2016\\acad.exe"
+    }
+  }
+}

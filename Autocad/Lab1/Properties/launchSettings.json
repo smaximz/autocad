@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2016\\acad.exe"
+    }
+  }
+}
