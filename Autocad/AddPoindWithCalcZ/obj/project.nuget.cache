@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "22oRaUe/Emy9VGduH82txntfjKJTVZG+WMgkTFb6yPwUL4aEGvr860yvfwXZ+6z7f7bxzX5lpo0bw5JHP7Q3Jg==",
+  "dgSpecHash": "3lGqasX+rb4RHNdNbn5SPWk7rX/W2NvqK4cHUZ9wsMtl5VU2bF+PtGqCXiDxL2HkLJeLbFxGFnOkCciUSfCMUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
+  "projectFilePath": "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smaxi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\smaxi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

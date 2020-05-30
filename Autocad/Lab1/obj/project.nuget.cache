@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FXb1VxKW3UyULDX6RkjZtKIsLdZarfDzY8hXC58bpGuh5I/ADsWk6Dk4W+Dp9hg+f7LdOqO7eC+7zBmKUJBnEA==",
+  "dgSpecHash": "DToS/CmXl2ZSTmqtfPgj5g1AOlXuSHJ3Pv+19den7xHzMPPb9nwX+byDcG1H2afzb4n1Fe0zH9k9ZujlQZ2asg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\Lab1.csproj",
+  "projectFilePath": "C:\\Projects\\github_repo\\Autocad\\Lab1\\Lab1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smaxi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\smaxi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

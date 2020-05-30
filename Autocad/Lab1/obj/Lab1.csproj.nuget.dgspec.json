@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\Lab1.csproj": {}
+    "C:\\Projects\\github_repo\\Autocad\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\Lab1.csproj": {
+    "C:\\Projects\\github_repo\\Autocad\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Projects\\github_repo\\Autocad\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Projects\\github_repo\\Autocad\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\smaxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\Lab1\\obj\\",
+        "outputPath": "C:\\Projects\\github_repo\\Autocad\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smaxi\\AppData\\Roaming\\NuGet\\NuGet.Config",

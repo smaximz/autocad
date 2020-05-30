@@ -7,3 +7,12 @@ C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\U
 C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.AssemblyInfo.cs
 C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.dll
 C:\Users\smaxi\source\repos\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.pdb
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\UtilsZ.deps.json
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\UtilsZ.dll
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\bin\Debug\netstandard2.0\UtilsZ.pdb
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.csproj.CoreCompileInputs.cache
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.AssemblyInfoInputs.cache
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.AssemblyInfo.cs
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.dll
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.pdb
+C:\Projects\github_repo\Autocad\AddPoindWithCalcZ\obj\Debug\netstandard2.0\UtilsZ.csprojAssemblyReference.cache

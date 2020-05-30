@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj": {}
+    "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj": {
+    "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
+        "projectUniqueName": "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
         "projectName": "UtilsZ",
-        "projectPath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
+        "projectPath": "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\UtilsZ.csproj",
         "packagesPath": "C:\\Users\\smaxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smaxi\\source\\repos\\Autocad\\AddPoindWithCalcZ\\obj\\",
+        "outputPath": "C:\\Projects\\github_repo\\Autocad\\AddPoindWithCalcZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smaxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
